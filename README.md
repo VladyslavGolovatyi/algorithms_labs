@@ -1,1 +1,1 @@
-# algotithms_labs
+# algorithms_labs
